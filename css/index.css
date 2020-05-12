@@ -50,3 +50,6 @@ span{
     background: #E7E7E7;
 }
 
+.col-lg-12{
+    border:3px solid black;
+}
